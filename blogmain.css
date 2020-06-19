@@ -1,0 +1,60 @@
+h1{
+    text-align: center;
+    font-family: oblique;
+    font-style: oblique;
+    color: darkcyan;
+    }
+    .pen{
+        height:1cm;
+        margin-left: 0.5cm;
+        margin-top: 0.5cm;
+    }
+    .image{
+        height:1cm;
+    }
+.polaroid {
+    width: 4cm;
+    height: 5cm;
+    text-align: center;
+   margin-right: 1cm;
+   
+    
+  }
+  .beat{
+      display: flex;
+  }
+  
+  .container {
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+  }
+  div.container1 {
+    display: flex;
+    margin-left: 9cm;
+    margin-top: 1cm;
+    
+  }
+  .text1{
+      font-family: oblique;
+  }
+  .book{
+      width: 9cm;
+      height: 9cm;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      margin-top: 5cm;
+      margin-left: 15cm;
+      border-radius: 50%;
+  }
+  /* .bookContainer {
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    align-items: center;
+  } */
+  .size{
+    border-radius: 50%; 
+    width: 9cm;
+      height: 9cm;
+  }
+  
+  

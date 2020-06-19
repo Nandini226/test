@@ -1,0 +1,212 @@
+.container{
+background-color: white;
+height: 1.5cm;
+width:40.5cm;
+
+
+
+}
+
+.container1{
+
+font-family: oblique;
+height:1cm ;
+width:4cm;    
+}
+.imge{
+    width: 9.6cm;
+    height: 10.8cm;
+    margin-left:-1cm;
+    
+    position: relative;
+}
+/*  */
+/* body{height: 100vh; overflow: hidden;} */
+
+.pp{
+    
+    font-size:20px;
+    margin-top: 0.5cm;
+   
+    
+}
+.top
+{padding-top: 1cm;
+    background-color:black;
+    height: 30px;
+    width:1000px;
+    border-radius: 5%;
+
+}
+.wd{
+
+    font-style: oblique;
+    font-size:15px;
+    margin-top: 0.6cm;;
+}
+.nj{
+    font-size:10px;
+    
+}
+.short{
+    font-style: oblique;
+    font-size:15px;
+    margin-top: 0.4cm;;
+    height: 0.8cm;
+    width:8cm;
+    margin-left: 5cm;
+
+}
+/* .pannel{
+   background-color:	#404040;
+   height: 1cm;
+   border-radius:8px ;
+   margin-left: 150px;
+ margin-right: 150px;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+  0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+} */
+img{
+    height: 1cm;
+    width: 1cm;
+    padding-right: 0.2cm;
+    padding-left:0.2cm;
+    
+    
+}
+.inner1{
+    background-color:	hsla(0, 100%, 95%, 0.3);	;
+    top: 5cm; left:25cm; /* of the container */
+   width:30%; /* of the outer-1 */
+   height:55%; /* of the outer-1 */
+   position: absolute;
+   
+   border-radius: 70%;
+}
+.inner2 {
+    background-color: hsla(0, 100%, 90%, 0.3);;
+     top: 6cm; left:26.5cm; /* of the container */
+    width:23%; /* of the inner-1 */
+    height:45%; /* of the inner-1 */
+    position: absolute;
+    transparency:50%;
+    
+    border-radius: 50%;
+    }
+    .outer1{
+        background-color:	hsla(0, 100%, 85%, 0.3);	;
+        top: 7.5cm; left:27.7cm; /* of the container */
+        width:17%; /* of the outer-1 */
+        height:30%; /* of the outer-1 */
+        position: absolute;
+        
+        border-radius: 80%;
+    }
+    /* Add a black background color to the top navigation */
+.topnav {
+        overflow: hidden;
+        /* display: center;
+        align: center; */
+        margin-left: 8cm;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #1d1616;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color:  #ddd;
+    color: white;
+  }
+  .contact{
+      /* display: flex;
+      text-align: center; */
+      height: 3cm;
+      margin-top: 0.4cm;
+      border-radius: 50%;
+  }
+  .welcome{
+      font-size: 20px;
+      font-family: Comic Sans MS;
+      margin-top: 0.2cm;
+      margin-left: 5cm;
+      color: 		#282828;
+    
+  }
+  .name{
+
+    font-size: 40px;
+    margin-left: 5cm ;
+    padding-top: 0.1cm;
+   font-family: sans-serif;
+    font-weight: 900
+  }
+  .web{
+      font-family: Avantgarde;
+      margin-top:0.1cm;
+      margin-left:5.1cm;
+      font-style: oblique;
+  }
+  i{
+      color:pink;
+  }
+  .about{
+      
+      margin-top: 1cm;
+      font-size: 17px;
+      font-weight: 600;
+  }
+  
+  .intro{
+      margin-left: 10cm;
+      margin-right: 10cm;
+      margin-top:0.2cm;
+      font-family: Avantgarde;
+      font-style: oblique;
+      font-size: 20px;
+  }
+  .op{
+margin-right: 1cm;
+margin-left:4cm;
+color: pink;
+}
+.oi{margin-right: 7cm;
+    margin-left:6cm;
+    color: pink;}
+.ou{margin-right: 3cm;
+    margin-left:5cm;
+    color: pink;}
+.oy{margin-right: 4cm;
+    margin-left:4cm;
+    color: pink;}
+.ot{margin-right: 3cm;
+    margin-left:7cm;
+    color: pink;}
+
+    .wave img{
+        /* margin-left: 3cm; */
+        /* margin-right: 3cm; */
+        margin-top:6cm;
+        height: 3.3cm;
+        width: 50.5cm;
+        opacity:0.5;
+        z-index: 2;
+        
+          }
+          .my{
+              margin-left: 25cm;
+          }
